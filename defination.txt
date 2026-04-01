@@ -1,0 +1,1 @@
+OpenCV (Open Source Computer Vision Library) is a leading open-source software library for computer vision, machine learning, and image processing, featuring over 2,500 optimized algorithms for real-time analysis. It provides tools to detect objects, recognize faces, track motions, and analyze visual data, supporting Python, C++, and Java across multiple platforms
