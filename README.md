@@ -10,6 +10,7 @@ Encoded categorical features using OneHotEncoder/LabelEncoderScaled numerical fe
  Trained a Decision Tree Classifier as a baseline model
  Trained a Random Forest Classifier (ensemble of decision trees) to reduce overfitting and improve accuracy
  Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix
+ By using new
 
 ## ⚙️ Tools & Libraries
 
