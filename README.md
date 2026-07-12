@@ -10,7 +10,6 @@ Covers classical ML, EDA, model building, and eventually deep learning & agentic
  Heart Disease Prediction – classification using Logistic Regression, Decision Tree, Random Forest
  ShopSmart E-Commerce Prediction – purchase prediction using Decision Tree & Random Forest ensembling
  EDA notebooks – exploratory data analysis practice on various datasets
- More projects added as I progress through deep learning, RAG, and agentic AI
 
 ## ⚙️ Tools & Libraries
 
