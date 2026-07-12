@@ -3,10 +3,9 @@
 Predict whether a customer will complete a purchase based on their browsing and behavioral data on an e-commerce platform. This helps businesses identify high-intent customers and optimize marketing/retention efforts.
 ## 🛠️ Approach
 
- Performed EDA to check feature distributions, class imbalance, and correlations.
- Handled missing values.
- Encoded categorical features using OneHotEncoder/LabelEncoder.
- Scaled numerical features using StandardScaler 
+Performed EDA to check feature distributions, class imbalance, and correlations
+Handled missing values
+Encoded categorical features using OneHotEncoder/LabelEncoderScaled numerical features using StandardScaler 
  Built preprocessing with ColumnTransformer + Pipeline to prevent data leakage between train/test splits
  Trained a Decision Tree Classifier as a baseline model
  Trained a Random Forest Classifier (ensemble of decision trees) to reduce overfitting and improve accuracy
