@@ -7,10 +7,9 @@ Performed EDA to check feature distributions, class imbalance, and correlations
 Handled missing values
 Encoded categorical features using OneHotEncoder/LabelEncoderScaled numerical features using StandardScaler 
  Built preprocessing with ColumnTransformer + Pipeline to prevent data leakage between train/test splits
- Trained a Decision Tree Classifier as a baseline model
- Trained a Random Forest Classifier (ensemble of decision trees) to reduce overfitting and improve accuracy
- Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix
- By using new
+ Trained a Decision Tree Classifier as a baseline model accuracy of 90.47 %
+ Trained a Random Forest Classifier (ensemble of decision trees) to reduce overfitting get accuracy 87.63 %
+ Evaluated models using accuracy, precision, recall, F1-score, and confusion matrix.
 
 ## ⚙️ Tools & Libraries
 
