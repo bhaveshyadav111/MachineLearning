@@ -21,11 +21,13 @@ Jupyter Notebook
 
 ## 📦 Installation
 bashgit clone https://github.com/bhaveshyadav111/MachineLearning.git
+
 cd MachineLearning
 pip install -r requirements.txt
 
 ## ▶️ Usage
 
 Navigate into the project folder you want to explore
+
 Open the notebook with:
 jupyter notebook/kagglenotebook/googlecolab
