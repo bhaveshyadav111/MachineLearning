@@ -5,7 +5,7 @@ A collection of ML projects I'm shipping while learning my way to an AI/ML engin
 📊 EDA Practice — exploratory analysis across various datasets
 
 ## Run it
-bashgit clone https://github.com/bhaveshyadav111/MachineLearning.git
+git clone https://github.com/bhaveshyadav111/MachineLearning.git
 cd MachineLearning
 pip install -r requirements.txt
 jupyter notebook
