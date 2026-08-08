@@ -1,19 +1,32 @@
-# MachineLearning
+# Machine Learning
 
-A collection of ML projects I'm shipping while learning my way to an AI/ML engineering role. Classical ML now, deep learning and agentic AI next.
+Continuous ML learning — code, notebooks, notes. No fluff, just what I've built while learning.
 
-- 🏥 **Heart Disease Prediction** — classification with Logistic Regression, Decision Tree, Random Forest
-- 🛒 **ShopSmart E-Commerce** — purchase prediction, Decision Tree + Random Forest ensembling
-- 📊 **EDA Practice** — exploratory analysis across various datasets
-- 🔜 More landing here as I move into deep learning, RAG, and agentic AI
+## Path
 
-## Run it
+ML → NLP → DL → RAG → Agentic AI
 
-\`\`\`bash
-git clone https://github.com/bhaveshyadav111/MachineLearning.git
-cd MachineLearning
-pip install -r requirements.txt
-jupyter notebook
-\`\`\`
+Currently on: **NLP**
 
-Built with Python, pandas, numpy, scikit-learn, matplotlib, seaborn.
+## Stack
+
+- Python, NumPy, Pandas, scikit-learn
+- PyTorch (target framework for all DL work)
+- Matplotlib, Seaborn, Plotly for viz
+
+## Structure
+
+.
+├── minorProjects/     # standalone ML projects — ShopSmart, Heart Disease Classifier, etc.
+└── NLP/                # NLP learning — text processing, embeddings, transformers
+
+## Projects
+
+| Project | Description | Status |
+|---|---|---|
+| ShopSmart | Decision Tree + Random Forest ensemble | Built |
+| Heart Disease Classifier | Logistic Regression, recall-optimized, SMOTE for imbalance | Built, not deployed |
+
+## Why this repo exists
+
+Learning in public. Every commit is a step — DSA solutions, ML experiments, broken code that got fixed, models that didn't work before they did. This isn't a portfolio of finished work; it's the process.
